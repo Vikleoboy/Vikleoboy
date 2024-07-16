@@ -4,7 +4,6 @@ Here’s an enhanced version of your GitHub README with larger logos, detailed d
 
 # Welcome to My GitHub! 👋
 
-![Banner](https://your-image-link-here)
 
 Hello! I'm Vivek 🌟
 
@@ -31,17 +30,15 @@ I'm a passionate Web Developer skilled in building dynamic and responsive web ap
 ## 🌟 Projects
 
 ### 1. Epub Book Reading App
-![Project Image](https://your-project-image-link-here)
+![image](https://github.com/user-attachments/assets/24e3ca0e-8bf7-4368-b769-9c9b22e5fa51)
 🚀 **Description**: A cross-platform EPUB book reader where you can find the books you love with the community and read them.
 🔧 **Technologies**: React.js, Tailwind CSS, Node.js, Express.js
 
 ### 2. Wallpaper Manager
-![Project Image](https://your-project-image-link-here)
 🐍 **Description**: An app that gets you the wallpapers you love just by the keyword.
 🔧 **Technologies**: Python, React.js, Tailwind CSS
 
 ### 3. Management Software for Gyms and Study Points
-![Project Image](https://your-project-image-link-here)
 🛒 **Description**: A complete management system for gyms and study points, which lets them manage their users, and also a billing system integrated with WhatsApp.
 🔧 **Technologies**: React.js, Node.js, Express.js, MongoDB
 
